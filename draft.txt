@@ -21,3 +21,10 @@ Song Library Application (Web Development, JavaScript, MVC, REST API, Teamwork)
 
 
 # Other interesting information
+
+Massively
+https://html5up.net/massively
+
+Inspiration
+https://towardsdatascience.com/how-i-designed-my-own-data-science-portfolio-website-3d146ea6b6cd
+https://rohithteja.github.io/
