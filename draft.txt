@@ -14,8 +14,9 @@ https://www.linkedin.com/in/jeremy-oroc-070bb5249/
 
 # 3 to 5 projects
 Home Budget Application (Application Development, C#, MVP, Agile, Jira, CI/CD Cycle, GitHub & GitHub Actions, Teamwork)
-Item Tracker Application (Application Development, C#, WPF, OOP Pillars, Teamwork)
 Song Library Application (Web Development, JavaScript, MVC, REST API, Teamwork)
+Item Tracker Application (Application Development, C#, WPF, OOP Pillars, Teamwork)
+Soccer Game (Game Development, JavaScript, HTML, CSS)
 
 # CV
 
